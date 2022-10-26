@@ -3,7 +3,7 @@
 # Project Name
 HELLO MICROVERSE
 > Description of the project.
-Jus a basic and simple html and css page 
+Just a basic and simple html and css page 
 
 ## Built With
 
